@@ -5,7 +5,7 @@
 U.S. President 1976–2016 | Harvard Dataverse / MEDSL
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-iygf2fwms5un4](https://aws.amazon.com/marketplace/pp/prodview-iygf2fwms5un4).
 
 ## Main Overview
 
